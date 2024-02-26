@@ -438,6 +438,9 @@
     footer .wrap-footer .footer-files{
         width: 40%;
     }
+    #about-me .wrap-about .about-text-wrap .row-1-resp{
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width: 342px){
